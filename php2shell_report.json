@@ -1,0 +1,36 @@
+{
+  "target": "https://dewanekonomi.go.id/",
+  "host": "dewanekonomi.go.id",
+  "domain": "dewanekonomi.go.id",
+  "enum_domain": "dewanekonomi.go.id",
+  "ts": "2026-10-22 16:51:41",
+  "edge": {
+    "cdn": false,
+    "server": "LiteSpeed",
+    "cf_ray": null,
+    "via": null,
+    "x_powered_by": null,
+    "x_cache": null
+  },
+  "origin": null,
+  "origin_candidates": [],
+  "php_version": null,
+  "php_vulnerable": null,
+  "endpoints": [],
+  "reflectors": [],
+  "phases": [
+    "marker",
+    "oom",
+    "stale",
+    "control",
+    "sessfile"
+  ],
+  "marker": [],
+  "oom": [],
+  "stale": [],
+  "control": [],
+  "sessfile": [],
+  "verdict": [
+    "NO_SIGNAL"
+  ]
+}

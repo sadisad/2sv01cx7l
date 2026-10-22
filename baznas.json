@@ -1,0 +1,2985 @@
+[
+  {
+    "target": "https://baznas.go.id",
+    "final_url": "https://baznas.go.id/",
+    "php": {
+      "php_version": null,
+      "phpsessid": false,
+      "is_php": false
+    },
+    "sapi": {
+      "sapi": "unknown",
+      "priority": "LOW"
+    },
+    "endpoints": [
+      {
+        "action": "https://baznas.us20.list-manage.com/subscribe/post?u=43c9b3cd711b195b161c3dfbb&id=c81099748d",
+        "method": "POST",
+        "enctype": "",
+        "file_fields": [],
+        "field_names": [
+          "EMAIL",
+          "b_efd3c00bb388a61bac718c0b2_f083769bac",
+          "subscribe"
+        ],
+        "multipart": false,
+        "source": "form"
+      },
+      {
+        "action": "https://bayarzakat.baznas.go.id/bayarzakat",
+        "method": "GET",
+        "enctype": "",
+        "file_fields": [],
+        "field_names": [
+          "platform",
+          "npwz",
+          "idk",
+          "subtype_of_fund",
+          "jumlahjiwa",
+          "hari",
+          "jumlahkambing",
+          "jumlahdamhadyu",
+          "nominal",
+          "user_name",
+          "user_title",
+          "user_title",
+          "user_phone",
+          "email",
+          "cookies",
+          "metode",
+          "metode",
+          "metode",
+          "metode",
+          "metode",
+          "metode",
+          "metode",
+          "metode",
+          "metode",
+          "metode",
+          "metode",
+          "metode",
+          "metode",
+          "metode",
+          "metode",
+          "metode",
+          "metode",
+          "metode",
+          "metode",
+          "metode"
+        ],
+        "multipart": false,
+        "source": "form"
+      },
+      {
+        "action": "https://bayarzakat.baznas.go.id/bayarzakat",
+        "method": "POST",
+        "enctype": "",
+        "file_fields": [],
+        "field_names": [],
+        "multipart": false,
+        "source": "form"
+      },
+      {
+        "action": "https://payment.linkaja.id/checkout/payment",
+        "method": "POST",
+        "enctype": "",
+        "file_fields": [],
+        "field_names": [
+          "Message",
+          "submit"
+        ],
+        "multipart": false,
+        "source": "form"
+      },
+      {
+        "action": "https://staging.doku.com/Suite/Receive",
+        "method": "POST",
+        "enctype": "",
+        "file_fields": [],
+        "field_names": [
+          "BASKET",
+          "MALLID",
+          "CHAINMERCHANT",
+          "CURRENCY",
+          "PURCHASECURRENCY",
+          "AMOUNT",
+          "PURCHASEAMOUNT",
+          "TRANSIDMERCHANT",
+          "WORDS",
+          "REQUESTDATETIME",
+          "SESSIONID",
+          "PAYMENTCHANNEL",
+          "EMAIL",
+          "NAME",
+          "ADDRESS",
+          "COUNTRY",
+          "STATE",
+          "CITY",
+          "PROVINCE",
+          "ZIPCODE",
+          "HOMEPHONE",
+          "MOBILEPHONE",
+          "WORKPHONE",
+          "BIRTHDATE",
+          "submit"
+        ],
+        "multipart": false,
+        "source": "form"
+      },
+      {
+        "action": "https://baznas.go.id/index.php",
+        "method": "POST",
+        "enctype": "multipart/form-data",
+        "file_fields": [],
+        "field_names": [],
+        "multipart": true,
+        "source": "probe",
+        "status": 200,
+        "is_php": true
+      },
+      {
+        "action": "https://baznas.go.id/assets/captcha/captcha.php",
+        "method": "POST",
+        "enctype": "multipart/form-data",
+        "file_fields": [],
+        "field_names": [],
+        "multipart": true,
+        "source": "probe",
+        "status": 200,
+        "is_php": true
+      },
+      {
+        "action": "https://baznas.go.id/assets/captcha/verifycaptcha.php",
+        "method": "POST",
+        "enctype": "multipart/form-data",
+        "file_fields": [],
+        "field_names": [],
+        "multipart": true,
+        "source": "probe",
+        "status": 200,
+        "is_php": true
+      },
+      {
+        "action": "https://baznas.go.id/index.php/form-pengaduan/gagal",
+        "method": "POST",
+        "enctype": "multipart/form-data",
+        "file_fields": [],
+        "field_names": [],
+        "multipart": true,
+        "source": "probe",
+        "status": 200,
+        "is_php": false
+      },
+      {
+        "action": "https://baznas.go.id/suplier-submit",
+        "method": "POST",
+        "enctype": "multipart/form-data",
+        "file_fields": [],
+        "field_names": [],
+        "multipart": true,
+        "source": "probe",
+        "status": 200,
+        "is_php": false
+      },
+      {
+        "action": "https://baznas.go.id/form-pengaduan",
+        "method": "POST",
+        "enctype": "multipart/form-data",
+        "file_fields": [],
+        "field_names": [],
+        "multipart": true,
+        "source": "probe",
+        "status": 200,
+        "is_php": false
+      },
+      {
+        "action": "https://baznas.go.id/epertimbangan/check_code",
+        "method": "POST",
+        "enctype": "multipart/form-data",
+        "file_fields": [],
+        "field_names": [],
+        "multipart": true,
+        "source": "probe",
+        "status": 200,
+        "is_php": false
+      },
+      {
+        "action": "https://baznas.go.id/form-jemput-zakat?success=0",
+        "method": "POST",
+        "enctype": "multipart/form-data",
+        "file_fields": [],
+        "field_names": [],
+        "multipart": true,
+        "source": "probe",
+        "status": 200,
+        "is_php": false
+      },
+      {
+        "action": "https://baznas.go.id/kirim",
+        "method": "POST",
+        "enctype": "multipart/form-data",
+        "file_fields": [],
+        "field_names": [],
+        "multipart": true,
+        "source": "probe",
+        "status": 200,
+        "is_php": false
+      }
+    ],
+    "pages_crawled": 25,
+    "exploit": [
+      {
+        "url": "https://baznas.go.id/index.php",
+        "verdict": "MULTIPART-OK",
+        "evidence": [],
+        "sapi": {
+          "sapi": "unknown",
+          "priority": "LOW"
+        },
+        "marker": [],
+        "oom": [],
+        "stale": [
+          {
+            "iter": 0,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 1,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 2,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 3,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 4,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 5,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          }
+        ],
+        "control": [],
+        "sessfile": [
+          {
+            "param": "file",
+            "path": "/tmp/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php/sessions/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php5/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php/session/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/tmp/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php/sessions/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php5/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php/session/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/tmp/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php/sessions/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php5/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php/session/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/tmp/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php/sessions/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php5/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php/session/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/tmp/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php/sessions/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php5/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php/session/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/tmp/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php/sessions/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php5/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php/session/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/tmp/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php/sessions/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php5/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php/session/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/tmp/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php/sessions/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php5/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php/session/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/tmp/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php/sessions/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php5/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php/session/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/tmp/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php/sessions/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php5/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php/session/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/tmp/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php/sessions/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php5/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php/session/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/tmp/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php/sessions/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php5/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php/session/sess_p2s6e0e2135",
+            "status": 200,
+            "marker": false
+          }
+        ],
+        "best_rank": 0,
+        "keepalive": true,
+        "baseline_status": 200,
+        "source": "probe"
+      },
+      {
+        "url": "https://baznas.go.id/assets/captcha/captcha.php",
+        "verdict": "MULTIPART-OK",
+        "evidence": [],
+        "sapi": {
+          "sapi": "unknown",
+          "priority": "LOW"
+        },
+        "marker": [],
+        "oom": [],
+        "stale": [
+          {
+            "iter": 0,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 1,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 2,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 3,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 4,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 5,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          }
+        ],
+        "control": [],
+        "sessfile": [
+          {
+            "param": "file",
+            "path": "/tmp/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php/sessions/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php5/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php/session/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/tmp/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php/sessions/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php5/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php/session/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/tmp/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php/sessions/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php5/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php/session/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/tmp/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php/sessions/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php5/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php/session/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/tmp/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php/sessions/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php5/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php/session/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/tmp/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php/sessions/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php5/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php/session/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/tmp/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php/sessions/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php5/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php/session/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/tmp/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php/sessions/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php5/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php/session/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/tmp/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php/sessions/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php5/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php/session/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/tmp/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php/sessions/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php5/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php/session/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/tmp/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php/sessions/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php5/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php/session/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/tmp/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php/sessions/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php5/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php/session/sess_p2sfe57f093",
+            "status": 200,
+            "marker": false
+          }
+        ],
+        "best_rank": 0,
+        "keepalive": true,
+        "baseline_status": 200,
+        "source": "probe"
+      },
+      {
+        "url": "https://baznas.go.id/assets/captcha/verifycaptcha.php",
+        "verdict": "MULTIPART-OK",
+        "evidence": [],
+        "sapi": {
+          "sapi": "unknown",
+          "priority": "LOW"
+        },
+        "marker": [],
+        "oom": [],
+        "stale": [
+          {
+            "iter": 0,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 1,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 2,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 3,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 4,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 5,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          }
+        ],
+        "control": [],
+        "sessfile": [
+          {
+            "param": "file",
+            "path": "/tmp/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php/sessions/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php5/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php/session/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/tmp/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php/sessions/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php5/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php/session/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/tmp/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php/sessions/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php5/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php/session/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/tmp/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php/sessions/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php5/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php/session/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/tmp/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php/sessions/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php5/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php/session/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/tmp/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php/sessions/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php5/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php/session/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/tmp/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php/sessions/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php5/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php/session/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/tmp/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php/sessions/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php5/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php/session/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/tmp/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php/sessions/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php5/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php/session/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/tmp/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php/sessions/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php5/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php/session/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/tmp/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php/sessions/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php5/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php/session/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/tmp/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php/sessions/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php5/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php/session/sess_p2s90630459",
+            "status": 200,
+            "marker": false
+          }
+        ],
+        "best_rank": 0,
+        "keepalive": true,
+        "baseline_status": 200,
+        "source": "probe"
+      },
+      {
+        "url": "https://baznas.go.id/index.php/form-pengaduan/gagal",
+        "verdict": "MULTIPART-OK",
+        "evidence": [],
+        "sapi": {
+          "sapi": "unknown",
+          "priority": "LOW"
+        },
+        "marker": [],
+        "oom": [],
+        "stale": [
+          {
+            "iter": 0,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 1,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 2,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 3,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 4,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 5,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          }
+        ],
+        "control": [],
+        "sessfile": [
+          {
+            "param": "file",
+            "path": "/tmp/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php/sessions/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php5/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php/session/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/tmp/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php/sessions/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php5/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php/session/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/tmp/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php/sessions/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php5/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php/session/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/tmp/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php/sessions/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php5/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php/session/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/tmp/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php/sessions/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php5/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php/session/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/tmp/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php/sessions/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php5/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php/session/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/tmp/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php/sessions/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php5/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php/session/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/tmp/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php/sessions/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php5/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php/session/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/tmp/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php/sessions/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php5/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php/session/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/tmp/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php/sessions/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php5/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php/session/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/tmp/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php/sessions/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php5/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php/session/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/tmp/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php/sessions/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php5/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php/session/sess_p2s1b06df94",
+            "status": 200,
+            "marker": false
+          }
+        ],
+        "best_rank": 0,
+        "keepalive": true,
+        "baseline_status": 200,
+        "source": "probe"
+      },
+      {
+        "url": "https://baznas.go.id/suplier-submit",
+        "verdict": "MULTIPART-OK",
+        "evidence": [],
+        "sapi": {
+          "sapi": "unknown",
+          "priority": "LOW"
+        },
+        "marker": [],
+        "oom": [],
+        "stale": [
+          {
+            "iter": 0,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 1,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 2,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 3,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 4,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 5,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          }
+        ],
+        "control": [],
+        "sessfile": [
+          {
+            "param": "file",
+            "path": "/tmp/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php/sessions/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php5/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php/session/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/tmp/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php/sessions/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php5/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php/session/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/tmp/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php/sessions/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php5/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php/session/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/tmp/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php/sessions/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php5/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php/session/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/tmp/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php/sessions/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php5/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php/session/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/tmp/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php/sessions/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php5/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php/session/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/tmp/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php/sessions/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php5/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php/session/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/tmp/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php/sessions/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php5/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php/session/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/tmp/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php/sessions/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php5/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php/session/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/tmp/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php/sessions/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php5/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php/session/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/tmp/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php/sessions/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php5/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php/session/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/tmp/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php/sessions/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php5/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php/session/sess_p2s6283f776",
+            "status": 200,
+            "marker": false
+          }
+        ],
+        "best_rank": 0,
+        "keepalive": true,
+        "baseline_status": 200,
+        "source": "probe"
+      },
+      {
+        "url": "https://baznas.go.id/form-pengaduan",
+        "verdict": "MULTIPART-OK",
+        "evidence": [],
+        "sapi": {
+          "sapi": "unknown",
+          "priority": "LOW"
+        },
+        "marker": [],
+        "oom": [],
+        "stale": [
+          {
+            "iter": 0,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 1,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 2,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 3,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 4,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 5,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          }
+        ],
+        "control": [],
+        "sessfile": [
+          {
+            "param": "file",
+            "path": "/tmp/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php/sessions/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php5/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php/session/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/tmp/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php/sessions/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php5/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php/session/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/tmp/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php/sessions/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php5/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php/session/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/tmp/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php/sessions/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php5/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php/session/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/tmp/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php/sessions/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php5/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php/session/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/tmp/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php/sessions/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php5/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php/session/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/tmp/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php/sessions/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php5/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php/session/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/tmp/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php/sessions/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php5/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php/session/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/tmp/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php/sessions/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php5/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php/session/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/tmp/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php/sessions/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php5/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php/session/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/tmp/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php/sessions/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php5/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php/session/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/tmp/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php/sessions/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php5/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php/session/sess_p2s429cec4c",
+            "status": 200,
+            "marker": false
+          }
+        ],
+        "best_rank": 0,
+        "keepalive": true,
+        "baseline_status": 200,
+        "source": "probe"
+      },
+      {
+        "url": "https://baznas.go.id/epertimbangan/check_code",
+        "verdict": "MULTIPART-OK",
+        "evidence": [],
+        "sapi": {
+          "sapi": "unknown",
+          "priority": "LOW"
+        },
+        "marker": [],
+        "oom": [],
+        "stale": [
+          {
+            "iter": 0,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 1,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 2,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 3,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 4,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 5,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          }
+        ],
+        "control": [],
+        "sessfile": [
+          {
+            "param": "file",
+            "path": "/tmp/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php/sessions/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php5/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php/session/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/tmp/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php/sessions/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php5/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php/session/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/tmp/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php/sessions/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php5/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php/session/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/tmp/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php/sessions/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php5/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php/session/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/tmp/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php/sessions/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php5/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php/session/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/tmp/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php/sessions/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php5/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php/session/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/tmp/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php/sessions/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php5/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php/session/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/tmp/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php/sessions/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php5/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php/session/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/tmp/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php/sessions/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php5/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php/session/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/tmp/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php/sessions/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php5/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php/session/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/tmp/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php/sessions/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php5/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php/session/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/tmp/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php/sessions/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php5/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php/session/sess_p2s209c2e50",
+            "status": 200,
+            "marker": false
+          }
+        ],
+        "best_rank": 0,
+        "keepalive": true,
+        "baseline_status": 200,
+        "source": "probe"
+      },
+      {
+        "url": "https://baznas.go.id/form-jemput-zakat?success=0",
+        "verdict": "MULTIPART-OK",
+        "evidence": [],
+        "sapi": {
+          "sapi": "unknown",
+          "priority": "LOW"
+        },
+        "marker": [],
+        "oom": [],
+        "stale": [
+          {
+            "iter": 0,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 1,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 2,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 3,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 4,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          },
+          {
+            "iter": 5,
+            "bleed": false,
+            "marker": false,
+            "diff": []
+          }
+        ],
+        "control": [],
+        "sessfile": [
+          {
+            "param": "file",
+            "path": "/tmp/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php/sessions/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php5/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "file",
+            "path": "/var/lib/php/session/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/tmp/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php/sessions/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php5/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "page",
+            "path": "/var/lib/php/session/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/tmp/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php/sessions/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php5/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "p",
+            "path": "/var/lib/php/session/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/tmp/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php/sessions/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php5/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "view",
+            "path": "/var/lib/php/session/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/tmp/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php/sessions/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php5/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "include",
+            "path": "/var/lib/php/session/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/tmp/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php/sessions/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php5/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "path",
+            "path": "/var/lib/php/session/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/tmp/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php/sessions/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php5/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "url",
+            "path": "/var/lib/php/session/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/tmp/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php/sessions/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php5/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "src",
+            "path": "/var/lib/php/session/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/tmp/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php/sessions/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php5/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "f",
+            "path": "/var/lib/php/session/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/tmp/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php/sessions/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php5/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "halaman",
+            "path": "/var/lib/php/session/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/tmp/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php/sessions/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php5/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "template",
+            "path": "/var/lib/php/session/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/tmp/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php/sessions/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php5/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          },
+          {
+            "param": "inc",
+            "path": "/var/lib/php/session/sess_p2sa03dbc0f",
+            "status": 200,
+            "marker": false
+          }
+        ],
+        "best_rank": 0,
+        "keepalive": true,
+        "baseline_status": 200,
+        "source": "probe"
+      }
+    ]
+  }
+]

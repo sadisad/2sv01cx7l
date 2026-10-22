@@ -1,0 +1,665 @@
+{
+  "target": "https://cintazakat.baznas.go.id/",
+  "host": "cintazakat.baznas.go.id",
+  "domain": "cintazakat.baznas.go.id",
+  "enum_domain": "cintazakat.baznas.go.id",
+  "ts": "2026-10-22 16:32:06",
+  "edge": {
+    "cdn": true,
+    "server": "cloudflare",
+    "cf_ray": "a4e77e3d890cfd3f-SIN",
+    "via": null,
+    "x_powered_by": "PHP/8.2.31",
+    "x_cache": null
+  },
+  "origin": null,
+  "origin_candidates": [],
+  "php_version": "PHP/8.2.31",
+  "php_vulnerable": null,
+  "endpoints": [
+    {
+      "url": "https://cintazakat.baznas.go.id/",
+      "get": 200,
+      "post": 200,
+      "methods": [
+        "GET",
+        "POST"
+      ]
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/index.php",
+      "get": 200,
+      "post": 200,
+      "methods": [
+        "GET",
+        "POST"
+      ]
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/donasi",
+      "get": 200,
+      "post": 200,
+      "methods": [
+        "GET",
+        "POST"
+      ]
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/zakat",
+      "get": 200,
+      "post": 200,
+      "methods": [
+        "GET",
+        "POST"
+      ]
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/berita",
+      "get": 200,
+      "post": 200,
+      "methods": [
+        "GET",
+        "POST"
+      ]
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/laporan",
+      "get": 200,
+      "post": 200,
+      "methods": [
+        "GET",
+        "POST"
+      ]
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/kegiatan/search",
+      "get": 200,
+      "post": 200,
+      "methods": [
+        "GET",
+        "POST"
+      ]
+    }
+  ],
+  "reflectors": [],
+  "phases": [
+    "marker",
+    "oom",
+    "stale",
+    "control",
+    "sessfile"
+  ],
+  "marker": [
+    {
+      "url": "https://cintazakat.baznas.go.id/",
+      "status": null,
+      "len": 0,
+      "reflected": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/index.php",
+      "status": null,
+      "len": 0,
+      "reflected": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/donasi",
+      "status": null,
+      "len": 0,
+      "reflected": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/zakat",
+      "status": null,
+      "len": 0,
+      "reflected": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/berita",
+      "status": null,
+      "len": 0,
+      "reflected": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/laporan",
+      "status": null,
+      "len": 0,
+      "reflected": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/kegiatan/search",
+      "status": null,
+      "len": 0,
+      "reflected": false
+    }
+  ],
+  "oom": [
+    {
+      "url": "https://cintazakat.baznas.go.id/",
+      "mb": 0,
+      "status": null,
+      "time": 0.79,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/",
+      "mb": 1,
+      "status": null,
+      "time": 4.34,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/",
+      "mb": 2,
+      "status": null,
+      "time": 8.06,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/",
+      "mb": 4,
+      "status": null,
+      "time": 8.36,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/",
+      "mb": 8,
+      "status": null,
+      "time": 6.19,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/",
+      "mb": 16,
+      "status": null,
+      "time": 6.29,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/",
+      "mb": 32,
+      "status": null,
+      "time": 6.37,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/index.php",
+      "mb": 0,
+      "status": null,
+      "time": 2.68,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/index.php",
+      "mb": 1,
+      "status": null,
+      "time": 4.37,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/index.php",
+      "mb": 2,
+      "status": null,
+      "time": 6.16,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/index.php",
+      "mb": 4,
+      "status": null,
+      "time": 6.25,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/index.php",
+      "mb": 8,
+      "status": null,
+      "time": 6.13,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/index.php",
+      "mb": 16,
+      "status": null,
+      "time": 5.98,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/index.php",
+      "mb": 32,
+      "status": null,
+      "time": 6.93,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/donasi",
+      "mb": 0,
+      "status": null,
+      "time": 2.36,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/donasi",
+      "mb": 1,
+      "status": null,
+      "time": 1.47,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/donasi",
+      "mb": 2,
+      "status": null,
+      "time": 5.96,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/donasi",
+      "mb": 4,
+      "status": null,
+      "time": 6.48,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/donasi",
+      "mb": 8,
+      "status": null,
+      "time": 7.36,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/donasi",
+      "mb": 16,
+      "status": null,
+      "time": 7.25,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/donasi",
+      "mb": 32,
+      "status": null,
+      "time": 5.74,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/zakat",
+      "mb": 0,
+      "status": null,
+      "time": 2.27,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/zakat",
+      "mb": 1,
+      "status": null,
+      "time": 4.24,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/zakat",
+      "mb": 2,
+      "status": null,
+      "time": 6.01,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/zakat",
+      "mb": 4,
+      "status": null,
+      "time": 5.79,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/zakat",
+      "mb": 8,
+      "status": null,
+      "time": 5.87,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/zakat",
+      "mb": 16,
+      "status": null,
+      "time": 11.31,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/zakat",
+      "mb": 32,
+      "status": null,
+      "time": 6.44,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/berita",
+      "mb": 0,
+      "status": null,
+      "time": 2.34,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/berita",
+      "mb": 1,
+      "status": null,
+      "time": 1.48,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/berita",
+      "mb": 2,
+      "status": null,
+      "time": 5.46,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/berita",
+      "mb": 4,
+      "status": null,
+      "time": 6.24,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/berita",
+      "mb": 8,
+      "status": null,
+      "time": 6.1,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/berita",
+      "mb": 16,
+      "status": null,
+      "time": 5.66,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/berita",
+      "mb": 32,
+      "status": null,
+      "time": 6.43,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/laporan",
+      "mb": 0,
+      "status": null,
+      "time": 2.71,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/laporan",
+      "mb": 1,
+      "status": null,
+      "time": 5.24,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/laporan",
+      "mb": 2,
+      "status": null,
+      "time": 5.44,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/laporan",
+      "mb": 4,
+      "status": null,
+      "time": 5.7,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/laporan",
+      "mb": 8,
+      "status": null,
+      "time": 9.08,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/laporan",
+      "mb": 16,
+      "status": null,
+      "time": 6.12,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/laporan",
+      "mb": 32,
+      "status": null,
+      "time": 5.86,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/kegiatan/search",
+      "mb": 0,
+      "status": null,
+      "time": 1.88,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/kegiatan/search",
+      "mb": 1,
+      "status": null,
+      "time": 4.24,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/kegiatan/search",
+      "mb": 2,
+      "status": null,
+      "time": 6.13,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/kegiatan/search",
+      "mb": 4,
+      "status": null,
+      "time": 6.23,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/kegiatan/search",
+      "mb": 8,
+      "status": null,
+      "time": 5.99,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/kegiatan/search",
+      "mb": 16,
+      "status": null,
+      "time": 5.86,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/kegiatan/search",
+      "mb": 32,
+      "status": null,
+      "time": 6.0,
+      "len": 0
+    }
+  ],
+  "stale": [
+    {
+      "url": "https://cintazakat.baznas.go.id/",
+      "iter": 0,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/",
+      "iter": 1,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/",
+      "iter": 2,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/index.php",
+      "iter": 0,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/index.php",
+      "iter": 1,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/index.php",
+      "iter": 2,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/donasi",
+      "iter": 0,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/donasi",
+      "iter": 1,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/donasi",
+      "iter": 2,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/zakat",
+      "iter": 0,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/zakat",
+      "iter": 1,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/zakat",
+      "iter": 2,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/berita",
+      "iter": 0,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/berita",
+      "iter": 1,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/berita",
+      "iter": 2,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/laporan",
+      "iter": 0,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/laporan",
+      "iter": 1,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/laporan",
+      "iter": 2,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/kegiatan/search",
+      "iter": 0,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/kegiatan/search",
+      "iter": 1,
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/kegiatan/search",
+      "iter": 2,
+      "bleed": false
+    }
+  ],
+  "control": [
+    {
+      "url": "https://cintazakat.baznas.go.id/",
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/index.php",
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/donasi",
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/zakat",
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/berita",
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/laporan",
+      "bleed": false
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/kegiatan/search",
+      "bleed": false
+    }
+  ],
+  "sessfile": [
+    {
+      "url": "https://cintazakat.baznas.go.id/",
+      "status": null,
+      "sessid": null,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/index.php",
+      "status": null,
+      "sessid": null,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/donasi",
+      "status": null,
+      "sessid": null,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/zakat",
+      "status": null,
+      "sessid": null,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/berita",
+      "status": null,
+      "sessid": null,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/laporan",
+      "status": null,
+      "sessid": null,
+      "len": 0
+    },
+    {
+      "url": "https://cintazakat.baznas.go.id/kegiatan/search",
+      "status": null,
+      "sessid": null,
+      "len": 0
+    }
+  ],
+  "verdict": [
+    "NO_SIGNAL"
+  ]
+}

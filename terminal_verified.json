@@ -1,0 +1,359 @@
+[
+  {
+    "ip": "103.123.25.94",
+    "verified": false,
+    "server": "ERR HTTPSConnectionPool(host='go.id', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='go.id', port=443) at 0x1ee446d89a0>, 'Connection to go.id timed out. (connect timeout=15)'))",
+    "status_code": null,
+    "raw": "verify 103.123.25.94      -> no | ERR HTTPSConnectionPool(host='go.id', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='go.id', port=443) at 0x1ee446d89a0>, 'Connection to go.id timed out. (connect timeout=15)')) | None"
+  },
+  {
+    "ip": "157.15.124.87",
+    "verified": false,
+    "server": "ERR HTTPSConnectionPool(host='go.id', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='go.id', port=443) at 0x1ee446db640>, 'Connection to go.id timed out. (connect timeout=15)'))",
+    "status_code": null,
+    "raw": "verify 157.15.124.87      -> no | ERR HTTPSConnectionPool(host='go.id', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='go.id', port=443) at 0x1ee446db640>, 'Connection to go.id timed out. (connect timeout=15)')) | None"
+  },
+  {
+    "ip": "103.119.139.17",
+    "verified": true,
+    "server": "nginx",
+    "status_code": 200,
+    "raw": "verify 103.119.139.17     -> OK | nginx | 200"
+  },
+  {
+    "ip": "103.110.89.187",
+    "verified": true,
+    "server": "Apache",
+    "status_code": 302,
+    "raw": "verify 103.110.89.187     -> OK | Apache | 302"
+  },
+  {
+    "ip": "144.79.65.52",
+    "verified": true,
+    "server": null,
+    "status_code": 403,
+    "raw": "verify 144.79.65.52       -> OK |  | 403"
+  },
+  {
+    "ip": "103.108.9.26",
+    "verified": true,
+    "server": "Apache",
+    "status_code": 200,
+    "raw": "verify 103.108.9.26       -> OK | Apache | 200"
+  },
+  {
+    "ip": "103.170.105.198",
+    "verified": true,
+    "server": null,
+    "status_code": 503,
+    "raw": "verify 103.170.105.198    -> OK |  | 503"
+  },
+  {
+    "ip": "123.108.101.18",
+    "verified": true,
+    "server": "nginx",
+    "status_code": 403,
+    "raw": "verify 123.108.101.18     -> OK | nginx | 403"
+  },
+  {
+    "ip": "103.248.25.48",
+    "verified": false,
+    "server": "ERR HTTPSConnectionPool(host='go.id', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='go.id', port=443) at 0x1ee446daef0>, 'Connection to go.id timed out. (connect timeout=15)'))",
+    "status_code": null,
+    "raw": "verify 103.248.25.48      -> no | ERR HTTPSConnectionPool(host='go.id', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='go.id', port=443) at 0x1ee446daef0>, 'Connection to go.id timed out. (connect timeout=15)')) | None"
+  },
+  {
+    "ip": "115.187.23.252",
+    "verified": true,
+    "server": "nginx",
+    "status_code": 200,
+    "raw": "verify 115.187.23.252     -> OK | nginx | 200"
+  },
+  {
+    "ip": "103.112.245.7",
+    "verified": true,
+    "server": "Apache",
+    "status_code": 200,
+    "raw": "verify 103.112.245.7      -> OK | Apache | 200"
+  },
+  {
+    "ip": "103.119.139.17",
+    "verified": true,
+    "server": "nginx",
+    "status_code": 200,
+    "raw": "verify 103.119.139.17     -> OK | nginx | 200"
+  },
+  {
+    "ip": "103.65.236.131",
+    "verified": false,
+    "server": "ERR HTTPSConnectionPool(host='go.id', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='go.id', port=443) at 0x1ee446db670>, 'Connection to go.id timed out. (connect timeout=15)'))",
+    "status_code": null,
+    "raw": "verify 103.65.236.131     -> no | ERR HTTPSConnectionPool(host='go.id', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='go.id', port=443) at 0x1ee446db670>, 'Connection to go.id timed out. (connect timeout=15)')) | None"
+  },
+  {
+    "ip": "111.221.43.222",
+    "verified": true,
+    "server": null,
+    "status_code": 502,
+    "raw": "verify 111.221.43.222     -> OK |  | 502"
+  },
+  {
+    "ip": "182.253.93.154",
+    "verified": true,
+    "server": null,
+    "status_code": 503,
+    "raw": "verify 182.253.93.154     -> OK |  | 503"
+  },
+  {
+    "ip": "123.253.54.51",
+    "verified": true,
+    "server": "nginx",
+    "status_code": 200,
+    "raw": "verify 123.253.54.51      -> OK | nginx | 200"
+  },
+  {
+    "ip": "103.157.117.166",
+    "verified": true,
+    "server": "LiteSpeed",
+    "status_code": 200,
+    "raw": "verify 103.157.117.166    -> OK | LiteSpeed | 200"
+  },
+  {
+    "ip": "103.8.238.156",
+    "verified": true,
+    "server": "Apache",
+    "status_code": 200,
+    "raw": "verify 103.8.238.156      -> OK | Apache | 200"
+  },
+  {
+    "ip": "103.141.238.34",
+    "verified": true,
+    "server": "Apache",
+    "status_code": 200,
+    "raw": "verify 103.141.238.34     -> OK | Apache | 200"
+  },
+  {
+    "ip": "103.165.248.30",
+    "verified": true,
+    "server": "nginx",
+    "status_code": 301,
+    "raw": "verify 103.165.248.30     -> OK | nginx | 301"
+  },
+  {
+    "ip": "103.248.25.148",
+    "verified": true,
+    "server": "nginx",
+    "status_code": 301,
+    "raw": "verify 103.248.25.148     -> OK | nginx | 301"
+  },
+  {
+    "ip": "103.170.105.49",
+    "verified": true,
+    "server": "Apache",
+    "status_code": 200,
+    "raw": "verify 103.170.105.49     -> OK | Apache | 200"
+  },
+  {
+    "ip": "103.247.8.102",
+    "verified": true,
+    "server": "Apache",
+    "status_code": 200,
+    "raw": "verify 103.247.8.102      -> OK | Apache | 200"
+  },
+  {
+    "ip": "103.225.242.176",
+    "verified": true,
+    "server": "Apache/2.4.52 (Ubuntu)",
+    "status_code": 403,
+    "raw": "verify 103.225.242.176    -> OK | Apache/2.4.52 (Ubuntu) | 403"
+  },
+  {
+    "ip": "163.53.193.214",
+    "verified": true,
+    "server": null,
+    "status_code": 503,
+    "raw": "verify 163.53.193.214     -> OK |  | 503"
+  },
+  {
+    "ip": "23.203.165.16",
+    "verified": true,
+    "server": "AkamaiGHost",
+    "status_code": 400,
+    "raw": "verify 23.203.165.16      -> OK | AkamaiGHost | 400"
+  },
+  {
+    "ip": "23.203.165.8",
+    "verified": true,
+    "server": "AkamaiGHost",
+    "status_code": 400,
+    "raw": "verify 23.203.165.8       -> OK | AkamaiGHost | 400"
+  },
+  {
+    "ip": "72.60.76.208",
+    "verified": true,
+    "server": "nginx",
+    "status_code": 502,
+    "raw": "verify 72.60.76.208       -> OK | nginx | 502"
+  },
+  {
+    "ip": "103.225.242.176",
+    "verified": true,
+    "server": "Apache/2.4.52 (Ubuntu)",
+    "status_code": 403,
+    "raw": "verify 103.225.242.176    -> OK | Apache/2.4.52 (Ubuntu) | 403"
+  },
+  {
+    "ip": "103.225.242.176",
+    "verified": true,
+    "server": "Apache/2.4.52 (Ubuntu)",
+    "status_code": 403,
+    "raw": "verify 103.225.242.176    -> OK | Apache/2.4.52 (Ubuntu) | 403"
+  },
+  {
+    "ip": "119.235.250.58",
+    "verified": true,
+    "server": "Microsoft-IIS/10.0",
+    "status_code": 500,
+    "raw": "verify 119.235.250.58     -> OK | Microsoft-IIS/10.0 | 500"
+  },
+  {
+    "ip": "103.225.242.176",
+    "verified": true,
+    "server": "Apache/2.4.52 (Ubuntu)",
+    "status_code": 403,
+    "raw": "verify 103.225.242.176    -> OK | Apache/2.4.52 (Ubuntu) | 403"
+  },
+  {
+    "ip": "103.225.242.176",
+    "verified": true,
+    "server": "Apache/2.4.52 (Ubuntu)",
+    "status_code": 403,
+    "raw": "verify 103.225.242.176    -> OK | Apache/2.4.52 (Ubuntu) | 403"
+  },
+  {
+    "ip": "103.225.242.176",
+    "verified": true,
+    "server": "Apache/2.4.52 (Ubuntu)",
+    "status_code": 403,
+    "raw": "verify 103.225.242.176    -> OK | Apache/2.4.52 (Ubuntu) | 403"
+  },
+  {
+    "ip": "103.225.242.176",
+    "verified": true,
+    "server": "Apache/2.4.52 (Ubuntu)",
+    "status_code": 403,
+    "raw": "verify 103.225.242.176    -> OK | Apache/2.4.52 (Ubuntu) | 403"
+  },
+  {
+    "ip": "127.0.0.1",
+    "verified": false,
+    "server": "ERR HTTPSConnectionPool(host='go.id', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='go.id', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))",
+    "status_code": null,
+    "raw": "verify 127.0.0.1          -> no | ERR HTTPSConnectionPool(host='go.id', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='go.id', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\")) | None"
+  },
+  {
+    "ip": "103.225.242.176",
+    "verified": true,
+    "server": "Apache/2.4.52 (Ubuntu)",
+    "status_code": 403,
+    "raw": "verify 103.225.242.176    -> OK | Apache/2.4.52 (Ubuntu) | 403"
+  },
+  {
+    "ip": "103.225.242.176",
+    "verified": true,
+    "server": "Apache/2.4.52 (Ubuntu)",
+    "status_code": 403,
+    "raw": "verify 103.225.242.176    -> OK | Apache/2.4.52 (Ubuntu) | 403"
+  },
+  {
+    "ip": "103.225.242.176",
+    "verified": true,
+    "server": "Apache/2.4.52 (Ubuntu)",
+    "status_code": 403,
+    "raw": "verify 103.225.242.176    -> OK | Apache/2.4.52 (Ubuntu) | 403"
+  },
+  {
+    "ip": "103.119.139.17",
+    "verified": true,
+    "server": "nginx",
+    "status_code": 200,
+    "raw": "verify 103.119.139.17     -> OK | nginx | 200"
+  },
+  {
+    "ip": "198.252.98.102",
+    "verified": true,
+    "server": "LiteSpeed",
+    "status_code": 200,
+    "raw": "verify 198.252.98.102     -> OK | LiteSpeed | 200"
+  },
+  {
+    "ip": "144.79.65.52",
+    "verified": true,
+    "server": null,
+    "status_code": 403,
+    "raw": "verify 144.79.65.52       -> OK |  | 403"
+  },
+  {
+    "ip": "103.141.105.74",
+    "verified": false,
+    "server": "ERR HTTPSConnectionPool(host='go.id', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='go.id', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))",
+    "status_code": null,
+    "raw": "verify 103.141.105.74     -> no | ERR HTTPSConnectionPool(host='go.id', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='go.id', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\")) | None"
+  },
+  {
+    "ip": "163.53.193.214",
+    "verified": true,
+    "server": null,
+    "status_code": 503,
+    "raw": "verify 163.53.193.214     -> OK |  | 503"
+  },
+  {
+    "ip": "103.53.193.42",
+    "verified": false,
+    "server": "ERR HTTPSConnectionPool(host='go.id', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='go.id', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))",
+    "status_code": null,
+    "raw": "verify 103.53.193.42      -> no | ERR HTTPSConnectionPool(host='go.id', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='go.id', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\")) | None"
+  },
+  {
+    "ip": "103.42.205.220",
+    "verified": true,
+    "server": null,
+    "status_code": 302,
+    "raw": "verify 103.42.205.220     -> OK |  | 302"
+  },
+  {
+    "ip": "203.14.183.98",
+    "verified": true,
+    "server": "Apache/2.4.25",
+    "status_code": 302,
+    "raw": "verify 203.14.183.98      -> OK | Apache/2.4.25 | 302"
+  },
+  {
+    "ip": "203.14.183.98",
+    "verified": true,
+    "server": "Apache/2.4.25",
+    "status_code": 302,
+    "raw": "verify 203.14.183.98      -> OK | Apache/2.4.25 | 302"
+  },
+  {
+    "ip": "202.10.51.236",
+    "verified": true,
+    "server": null,
+    "status_code": 503,
+    "raw": "verify 202.10.51.236      -> OK |  | 503"
+  },
+  {
+    "ip": "162.0.227.145",
+    "verified": true,
+    "server": "nginx",
+    "status_code": 200,
+    "raw": "verify 162.0.227.145      -> OK | nginx | 200"
+  },
+  {
+    "ip": "103.8.238.44",
+    "verified": true,
+    "server": null,
+    "status_code": 503,
+    "raw": "verify 103.8.238.44       -> OK |  | 503"
+  }
+]

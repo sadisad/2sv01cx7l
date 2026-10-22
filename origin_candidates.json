@@ -1,0 +1,12 @@
+{
+  "target": "https://baznas.go.id/",
+  "host": "baznas.go.id",
+  "baseline": {
+    "status": 200,
+    "len": 100051,
+    "title": "BAZNAS",
+    "server": "cloudflare",
+    "cf_ray": "a4e7135aec88fd9a-SIN"
+  },
+  "results": []
+}
